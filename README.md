@@ -33,6 +33,8 @@ an example workflow in `workflow` folder
 ## Parameters
 
 ```
-use_chop: process image with tiled operation, save lots vram 
+model_type: RGT and RGT-S model, former one usually better then the RGT-S
+upsacle: x2, x3, x4 upscale
+use_chop: process image with tiled operation, save lots vram
 ```
 
