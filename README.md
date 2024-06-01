@@ -22,6 +22,12 @@ cd ComfyUI/models/
 git clone https://huggingface.co/ViperYX/RGT
 ```
 
+## Example
+an example workflow in `workflow` folder
+
+![](assets/image.png)
+
+
 
 
 ## Parameters
