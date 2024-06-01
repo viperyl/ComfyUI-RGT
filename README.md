@@ -1,6 +1,6 @@
 # ComfyUI-RGT
 
-This repo cast **Recursive Generalization Transformer for Image Super-Resolution** to ComfyUI, the original [paper link](https://arxiv.org/abs/2303.06373) and [github link]([zhengchen1999/RGT: PyTorch code for our ICLR 2024 paper "Recursive Generalization Transformer for Image Super-Resolution" (github.com)](https://github.com/zhengchen1999/RGT))
+This repo cast **Recursive Generalization Transformer for Image Super-Resolution** to ComfyUI, the original [paper link](https://arxiv.org/abs/2303.06373) and [github link](https://github.com/zhengchen1999/RGT)
 
 # Usage
 
