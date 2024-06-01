@@ -15,7 +15,12 @@ pip install -r requirements.txt
 
 model download from huggingface
 
-soon
+```
+# optional, make sure you have installed git lfs
+# git lfs install
+cd ComfyUI/models/
+git clone https://huggingface.co/ViperYX/RGT
+```
 
 
 
